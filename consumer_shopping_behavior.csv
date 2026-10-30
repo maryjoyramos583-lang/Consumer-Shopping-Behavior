@@ -1,0 +1,51 @@
+"Consumer_ID","Age","Gender","Monthly_Income_PHP","Shopping_Frequency","Preferred_Shopping_Method","Product_Category","Monthly_Transactions","Average_Purchase_PHP","Monthly_Spending_PHP","Payment_Method","Satisfaction_Rating"
+1,62,"Female",24000,"Weekly","In-Store","Beauty",15,2600,39000,"E-Wallet",5
+2,65,"Male",43000,"Monthly","In-Store","Food",18,2200,39600,"Cash",5
+3,29,"Female",33000,"Daily","In-Store","Food",12,2600,31200,"Credit Card",5
+4,59,"Female",47000,"Weekly","In-Store","Household",17,200,3400,"E-Wallet",3
+5,43,"Female",22000,"Occasionally","Online","Beauty",8,3100,24800,"Credit Card",3
+6,65,"Female",18000,"Weekly","Online","Food",11,1900,20900,"E-Wallet",4
+7,52,"Male",50000,"Occasionally","Online","Electronics",7,4700,32900,"E-Wallet",5
+8,54,"Female",32000,"Monthly","Online","Clothing",10,300,3000,"Cash",4
+9,53,"Male",21000,"Occasionally","In-Store","Clothing",15,5000,75000,"Debit Card",1
+10,60,"Female",23000,"Monthly","Online","Food",5,1400,7000,"E-Wallet",3
+11,60,"Male",49000,"Daily","In-Store","Household",8,100,800,"Cash",5
+12,20,"Female",49000,"Daily","In-Store","Electronics",14,5000,70000,"E-Wallet",2
+13,23,"Female",58000,"Weekly","In-Store","Food",10,3100,31000,"E-Wallet",3
+14,64,"Male",12000,"Occasionally","In-Store","Household",1,300,300,"Cash",1
+15,65,"Male",20000,"Monthly","Online","Food",10,4800,48000,"Cash",4
+16,23,"Female",46000,"Weekly","Online","Clothing",2,4000,8000,"Credit Card",3
+17,46,"Male",48000,"Daily","In-Store","Beauty",2,1300,2600,"E-Wallet",2
+18,38,"Male",35000,"Daily","In-Store","Electronics",5,1300,6500,"E-Wallet",1
+19,29,"Female",45000,"Monthly","In-Store","Electronics",13,2600,33800,"Debit Card",4
+20,19,"Male",45000,"Daily","In-Store","Beauty",2,3500,7000,"Credit Card",5
+21,56,"Male",23000,"Daily","Online","Electronics",15,2300,34500,"Credit Card",4
+22,41,"Male",57000,"Occasionally","In-Store","Household",8,4000,32000,"Cash",1
+23,65,"Female",48000,"Monthly","In-Store","Household",6,100,600,"Debit Card",1
+24,41,"Male",37000,"Occasionally","In-Store","Electronics",15,1800,27000,"Credit Card",1
+25,47,"Female",50000,"Monthly","In-Store","Electronics",7,1900,13300,"Cash",1
+26,43,"Female",44000,"Occasionally","In-Store","Food",9,2400,21600,"E-Wallet",3
+27,64,"Female",21000,"Monthly","In-Store","Food",6,3200,19200,"Debit Card",1
+28,25,"Female",26000,"Weekly","Online","Beauty",6,2300,13800,"Cash",1
+29,49,"Female",26000,"Monthly","Online","Food",4,2500,10000,"Debit Card",5
+30,32,"Female",50000,"Weekly","In-Store","Beauty",20,500,10000,"E-Wallet",3
+31,59,"Male",34000,"Occasionally","In-Store","Food",12,4200,50400,"Credit Card",1
+32,45,"Female",26000,"Monthly","Online","Electronics",4,4100,16400,"Credit Card",4
+33,33,"Male",24000,"Daily","In-Store","Beauty",13,3400,44200,"Cash",5
+34,29,"Male",28000,"Weekly","Online","Household",18,100,1800,"Cash",1
+35,50,"Male",15000,"Daily","In-Store","Household",20,2900,58000,"Cash",3
+36,40,"Female",19000,"Occasionally","Online","Clothing",12,500,6000,"E-Wallet",5
+37,27,"Male",12000,"Monthly","In-Store","Food",19,3900,74100,"Debit Card",4
+38,34,"Male",36000,"Daily","Online","Clothing",9,2500,22500,"Cash",1
+39,47,"Female",45000,"Weekly","In-Store","Household",2,3100,6200,"Credit Card",1
+40,49,"Male",51000,"Weekly","In-Store","Beauty",16,200,3200,"Credit Card",5
+41,29,"Male",32000,"Daily","Online","Beauty",12,4000,48000,"Credit Card",1
+42,21,"Female",35000,"Daily","Online","Beauty",11,1400,15400,"E-Wallet",2
+43,22,"Female",16000,"Weekly","In-Store","Food",15,4800,72000,"Credit Card",5
+44,41,"Female",12000,"Weekly","In-Store","Electronics",4,1400,5600,"Debit Card",5
+45,35,"Female",32000,"Weekly","In-Store","Household",5,1200,6000,"Cash",5
+46,37,"Male",37000,"Occasionally","Online","Clothing",10,4400,44000,"E-Wallet",5
+47,39,"Female",34000,"Occasionally","Online","Beauty",15,4300,64500,"Cash",4
+48,36,"Female",30000,"Occasionally","Online","Food",2,1900,3800,"Credit Card",3
+49,43,"Male",33000,"Monthly","In-Store","Beauty",8,3500,28000,"E-Wallet",5
+50,43,"Female",28000,"Weekly","Online","Beauty",15,2900,43500,"Cash",2
